@@ -3,7 +3,7 @@
 masses=(300 400 500 750)
 #masses=(500 750)
 
-sample=ChargedHiggs_hw_mh200_NLO
+sample=ChargedHiggs_hw_mh125_NLO
 postfix=(_run_card.dat _customizecards.dat _proc_card.dat _extramodels.dat _madspin_card.dat)
 
 #echo ${masses[*]}
